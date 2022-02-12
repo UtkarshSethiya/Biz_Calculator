@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Biz_Calculator/static/css/main.45a7adb3.css",
+    "main.js": "/Biz_Calculator/static/js/main.0d9ca2c5.js",
+    "static/js/498.a6886045.chunk.js": "/Biz_Calculator/static/js/498.a6886045.chunk.js",
+    "static/js/703.fd8c655e.chunk.js": "/Biz_Calculator/static/js/703.fd8c655e.chunk.js",
+    "static/js/314.62e6cff0.chunk.js": "/Biz_Calculator/static/js/314.62e6cff0.chunk.js",
+    "static/media/calimage.png": "/Biz_Calculator/static/media/calimage.efa1c6704ed8c4d28c14.png",
+    "static/media/image 9.png": "/Biz_Calculator/static/media/image 9.8155897648f69505e684.png",
+    "static/media/quest.png": "/Biz_Calculator/static/media/quest.c531c4f32654af01f7ca.png",
+    "static/media/Slabo27px-Regular.ttf": "/Biz_Calculator/static/media/Slabo27px-Regular.0874a8cfe6c59ebfaefe.ttf",
+    "static/media/Slabo13px-Regular.ttf": "/Biz_Calculator/static/media/Slabo13px-Regular.56d61b24faedc36cd963.ttf",
+    "static/media/78788 1.png": "/Biz_Calculator/static/media/78788 1.449dcee59024bd3a08d0.png",
+    "static/media/000000 1.png": "/Biz_Calculator/static/media/000000 1.810f010eec8f58110774.png",
+    "static/media/tea-cup-png-photos 1 (2).png": "/Biz_Calculator/static/media/tea-cup-png-photos 1 (2).0e537ccb4c136cd3237d.png",
+    "static/media/registered 1.png": "/Biz_Calculator/static/media/registered 1.8397b2a006dd2663631d.png",
+    "static/media/66666 1.png": "/Biz_Calculator/static/media/66666 1.6d4acaa73fa5ca305cfb.png",
+    "index.html": "/Biz_Calculator/index.html",
+    "main.45a7adb3.css.map": "/Biz_Calculator/static/css/main.45a7adb3.css.map",
+    "main.0d9ca2c5.js.map": "/Biz_Calculator/static/js/main.0d9ca2c5.js.map",
+    "498.a6886045.chunk.js.map": "/Biz_Calculator/static/js/498.a6886045.chunk.js.map",
+    "703.fd8c655e.chunk.js.map": "/Biz_Calculator/static/js/703.fd8c655e.chunk.js.map",
+    "314.62e6cff0.chunk.js.map": "/Biz_Calculator/static/js/314.62e6cff0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45a7adb3.css",
+    "static/js/main.0d9ca2c5.js"
+  ]
+}
